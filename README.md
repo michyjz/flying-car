@@ -1,4 +1,4 @@
-# flying-car
+# Flying Car
 Flappy Bird Remake
 
 My first game using Unity and C#
